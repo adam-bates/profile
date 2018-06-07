@@ -3,3 +3,9 @@
 main {
   padding-top: 2%;
 }
+.text-brown {
+  color: #4f372c;
+}
+a.text-brown:active {
+  color: black;
+}
