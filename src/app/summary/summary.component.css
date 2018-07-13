@@ -1,0 +1,13 @@
+.summary-header {
+  background-image: url('https://images.pexels.com/photos/900106/pexels-photo-900106.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260');
+  background-size: cover;
+  background-blend-mode: darken;
+}
+
+.summary-container {
+  background-color: rgba(230, 230, 230, .875);
+}
+
+.summary-img {
+  width: 250px;
+}
