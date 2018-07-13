@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "live": "bates-profile",
+    "default": "bates-profile"
+  }
+}
