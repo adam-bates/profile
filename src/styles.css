@@ -9,3 +9,13 @@ main {
 a.text-brown:active {
   color: black;
 }
+
+img.experience-img {
+  margin-top: 25px;
+  padding-bottom: 25px;
+}
+
+img.capabilities-img {
+  margin-top: 25px;
+  padding-bottom: 25px;
+}
